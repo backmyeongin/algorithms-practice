@@ -4,14 +4,8 @@ def value_swap(a, b):
     b = temp
     return a, b
 
-
-
-
 x = 10 
 y = 20
-# # 현재 츨력: x: 10, y: 20
-# print(f'x: {x}, y: {y}')
-
 
 # 기대되는 값: x: 20 , y: 10
 res1, res2 = value_swap(x, y)
