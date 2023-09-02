@@ -1,3 +1,0 @@
-## ALGORITHMS-PRACTICE
-
-
